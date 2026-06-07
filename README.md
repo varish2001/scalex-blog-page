@@ -1,5 +1,7 @@
 # Scalex Blog Landing Page
 
+Live Demo - https://scalex-blog-iota.vercel.app/
+
 A modern blog landing page built using **HTML5** and **CSS3** as part of a frontend development assignment focused on mastering **Flexbox** and **CSS Positioning** concepts.
 
 The goal of this project was to recreate a real-world UI design while practicing layout creation, alignment techniques, responsive structure, and modern styling principles.
